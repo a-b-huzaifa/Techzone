@@ -1,0 +1,17 @@
+{
+  "name": "techzone",
+  "version": "1.0.0",
+  "description": "> A full-stack, production-grade e-commerce web application built with the MERN stack, featuring real-time order tracking, Stripe payments, Cloudinary image hosting, and a premium dark-mode UI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "start /min mongod --dbpath C:\\data\\db --port 27017 && concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "install-all": "npm install && npm install --prefix server && npm install --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
