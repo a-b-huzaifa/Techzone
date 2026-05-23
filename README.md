@@ -7,16 +7,19 @@ TechZone is a production-grade, full-stack e-commerce web application built usin
 ## 📸 Screenshots
 
 ### 🖥️ Customer Homepage
-*A sleek, custom dark interface displaying featured products, rotating promotional banners, and clean navigation.*
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](screenshots/home%20page.png)
 
-### 🛍️ Product Catalog
-*Interactive filtering by category, brand, rating, and price range, with modern grid layouts and glowing star ratings.*
-![Products Screenshot](screenshots/products.png)
+### 🛍️ Product Details & Catalog
+![Product Detail Screenshot](screenshots/product%20page.png)
 
-### 📊 Admin Panel Dashboard
-*Real-time charts, total revenue stats, order statuses, and direct product/user management operations.*
-![Admin Dashboard Screenshot](screenshots/dashboard.png)
+### 🛒 Shopping Cart & Checkout
+![Cart Screenshot](screenshots/cart.png)
+
+### 👤 User Profile & Wishlist
+![Profile Screenshot](screenshots/profile.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard Screenshot](screenshots/admin%20dashboard.png)
 
 ---
 
