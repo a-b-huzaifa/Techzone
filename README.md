@@ -232,6 +232,3 @@ If running `npm run dev` yields database connection errors:
 If Stripe credentials are not specified, the client shows warning toast notifications but falls back to Cash on Delivery checkout mode cleanly, allowing you to run the order lifecycle end-to-end without payment keys.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
